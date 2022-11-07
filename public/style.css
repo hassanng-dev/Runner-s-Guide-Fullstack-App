@@ -1,0 +1,81 @@
+body{
+  background-color: rgb(210,180,140);
+  padding-top:80px;
+  word-wrap:break-word;
+  
+}
+
+.logoutBtn {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+  height: 200px;
+}
+
+.Easy {
+  background-color: lightgreen;
+  font-size: 18px;
+}
+
+.Medium {
+  background-color: orange;
+  font-size: 18px;
+
+}
+
+.Hard {
+  background-color: red;
+  font-size: 18px;
+}
+
+.radioBts {
+  margin-left: 30%;
+}
+
+.runsCompleted li {
+  margin-top: 1%;
+  
+  
+}
+
+.runsCompleted button {
+  margin-left: 38%;
+}
+/* .runsCompleted input {
+  margin-left: 30%;
+} */
+
+.runForm {
+  border: 2px solid black;
+  margin-left: 26%;
+  box-shadow: 10px 5px 5px black;
+}
+.runForm li {
+  list-style: none;
+  
+}
+
+.textInput {
+  margin-left: 30%;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.runForm h2, h3, h5 {
+  text-align: center;
+}
+
+
+.checkgreen {
+  color: yellow;
+  
+}
+
+.checkblack {
+  color: black;
+}
+
